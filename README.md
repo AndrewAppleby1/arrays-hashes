@@ -1,2 +1,2 @@
 # arrays-hashes
-# This project is about arrays and hashes
+# This project is about arrays and hashes.
